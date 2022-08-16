@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay T
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html,css and js
-📫 How to reach me - @ajayfr (insta)
+- 📫 How to reach me - @ajayfr (insta)
 
 
 <!---
